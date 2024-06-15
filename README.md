@@ -1,4 +1,4 @@
-yo bassicly I'm a guy who uses termux and does things with root and security vulnerabilities
+yo im mcgamer i exploit things and make tools in python i know python a little bit of HTML and some C#
 
 <!---
 mcgamer48ft/mcgamer48ft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
